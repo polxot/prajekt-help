@@ -4,5 +4,8 @@
 3.git commit -m "коментарий"
 4.git push origin develop ('develop'-название ветки)
 
+git remote add master https://github.com/polxot/prajekt-help.git
+
+
 
 
