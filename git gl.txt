@@ -1,0 +1,8 @@
+
+1.git status
+2.git add .
+3.git commit -m "коментарий"
+4.git push origin develop ('develop'-название ветки)
+
+
+
